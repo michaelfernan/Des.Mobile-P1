@@ -33,6 +33,9 @@ export const styles = StyleSheet.create({
         alignItems: 'center',
         display: 'flex',
         flexDirection: 'row',
+        border:8,
+        
+        
     },
 
     logo: {
@@ -51,6 +54,7 @@ export const styles = StyleSheet.create({
         width: 45,
         height: 45,
         borderRadius: 5,
+        color: 'black',
     },
 
     conteudo: {

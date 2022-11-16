@@ -16,7 +16,7 @@ export const styles = StyleSheet.create({
     conteudo: {
 
         flex: 1,
-        marginTop: 10,
+        marginTop: 13,
         marginBottom: 90,
         paddingTop: 5,
         alignItems: 'center',
@@ -48,12 +48,12 @@ export const styles = StyleSheet.create({
         backgroundColor: '#fff',
         paddingTop: 10,
         paddingBottom: 5,
-        borderRadius: 5,
+        borderRadius: 8,
         alignItems: 'center',
-        marginTop: 5,
         marginLeft: 15,
         width: 115,
         height: 95,
+        
     },
 
     buttonText: {
