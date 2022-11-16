@@ -1,7 +1,5 @@
 import React from "react";
-import {Login } from "./src/screens/Login"
-import {Home } from "./src/screens/Inicio"
-import {Routes} from "./src/routes"
+import {Routes} from "./src/routes";
 
 
 
