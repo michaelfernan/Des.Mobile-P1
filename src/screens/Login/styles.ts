@@ -33,9 +33,7 @@ export const styles = StyleSheet.create({
         alignItems: 'center',
         display: 'flex',
         flexDirection: 'row',
-        border:8,
-        
-        
+        border: 8,
     },
 
     logo: {
@@ -46,7 +44,6 @@ export const styles = StyleSheet.create({
         width: 240,
         height: 60,
         left: 60,
-        
     },
 
     image: {
@@ -56,10 +53,8 @@ export const styles = StyleSheet.create({
         height: 45,
         borderRadius: 5,
         color: 'black',
-        borderColor:  '#F5F5F',
-       
-        
-        },
+        borderColor: '#F5F5F',
+    },
 
     conteudo: {
 
@@ -67,7 +62,7 @@ export const styles = StyleSheet.create({
         paddingTop: 30,
         alignItems: 'center',
         display: 'flex',
-        flexDirection: 'row'
+        flexDirection: 'row',
     },
 
     entrar: {
@@ -120,8 +115,7 @@ export const styles = StyleSheet.create({
         padding: 10,
         borderRadius: 5,
         alignItems: 'center',
-        marginTop: 20
-        
+        marginTop: 20,
     },
 
     button2: {
