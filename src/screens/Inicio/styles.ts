@@ -52,8 +52,16 @@ export const styles = StyleSheet.create({
         alignItems: 'center',
         marginLeft: 15,
         width: 115,
-        height: 95,
+        height: 95,    
+        borderColor:  '#F5F5F',
+        shadowColor: '#A9A9A9',
+        shadowOpacity: 0.1,
+        elevation: 2,
+        shadowRadius: 15 ,
+        shadowOffset : { width: 56, height: 13},
+
         
+
     },
 
     buttonText: {
@@ -78,6 +86,12 @@ export const styles = StyleSheet.create({
         width: 370,
         height: 50,
         textAlign: 'left',
+        borderColor:  '#F5F5F',
+        shadowColor: '#A9A9A9',
+        shadowOpacity: 0.1,
+        elevation: 2,
+        shadowRadius: 15 ,
+        shadowOffset : { width: 56, height: 13},
     },
 
     icons: {
@@ -89,6 +103,7 @@ export const styles = StyleSheet.create({
         flexDirection: 'row',
         width: 60,
         height: 60,
+        
     },
 
     menu: {

@@ -46,6 +46,7 @@ export const styles = StyleSheet.create({
         width: 240,
         height: 60,
         left: 60,
+        
     },
 
     image: {
@@ -55,7 +56,10 @@ export const styles = StyleSheet.create({
         height: 45,
         borderRadius: 5,
         color: 'black',
-    },
+        borderColor:  '#F5F5F',
+       
+        
+        },
 
     conteudo: {
 
@@ -117,6 +121,7 @@ export const styles = StyleSheet.create({
         borderRadius: 5,
         alignItems: 'center',
         marginTop: 20
+        
     },
 
     button2: {
